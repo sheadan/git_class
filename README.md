@@ -5,3 +5,6 @@ We can use this repo to practice using git for team projects (eg merge, branch, 
 
 # Clashing section
 Is clash resolution difficult?
+
+# What time is it?
+10:00 AM
